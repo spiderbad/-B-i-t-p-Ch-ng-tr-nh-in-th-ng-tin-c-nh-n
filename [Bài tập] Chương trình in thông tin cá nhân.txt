@@ -1,0 +1,12 @@
+name = input("Please input your name here: ")
+date_of_birth = input("Enter your date of birth: ")
+adress = input("Enter your adress: ")
+why = input("Enter the reason why you study python: ")
+print(   
+
+)
+print("               This Is Your Information                 ")
+print(f"Your name: {name}")
+print(f"Your date of birth: {date_of_birth}")
+print(f"Your adress: {adress}")
+print(f"Your reason to study python: {why}")
